@@ -4,3 +4,6 @@ salem
 Hola!
 salu
 those different languages
+tschüß
+wadaa
+au revoir
